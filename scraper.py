@@ -99,22 +99,20 @@ async def extract_urls():
             continue
         res = tldextract.extract(url)
         non_ips.add(url)
-        fqdns.add(res.fqdn)
-        registered_domains.add(res.top_domain_under_public_suffix)
+        if res.fqdn:
+            fqdns.add(res.fqdn)
+        if res.top_domain_under_public_suffix:
+            registered_domains.add(res.top_domain_under_public_suffix)
 
     # Process IP models - only add to ips set
     for model in tqdm(models_for_ip, desc="Extracting IPs"):
         url = model.get("url", "").strip()
-        if not url:
-            continue
         if url:
             ips.add(url)
 
     # Process IPv6 models - only add to ips set
     for model in tqdm(models_for_ip6, desc="Extracting IPv6s"):
         url = model.get("url", "").strip()
-        if not url:
-            continue
         if url:
             ips.add(url)
 
@@ -157,7 +155,7 @@ async def extract_urls():
     fqdns_timestamp: str = current_datetime_str()
     fqdns_filename = "urls_pihole.txt"
     async with aiofiles.open(fqdns_filename, "w") as f:
-        await f.writelines("\n".join(sorted(fqdns)))
+        await f.write("\n".join(sorted(fqdns)))
         logger.info(
             "%d FQDNs written to %s at %s",
             len(fqdns),
@@ -165,10 +163,24 @@ async def extract_urls():
             fqdns_timestamp,
         )
 
+    # Output Native AdAway 0.0.0.0 Hosts Format
+    adaway_timestamp: str = current_datetime_str()
+    adaway_filename = "usom_hosts_adaway.txt"
+    async with aiofiles.open(adaway_filename, "w") as f:
+        adaway_content = "# Title: USOM / SGB Threat Blocklist (AdAway)\n# Syntax: 0.0.0.0 domain.com\n\n"
+        adaway_content += "\n".join(f"0.0.0.0 {domain}" for domain in sorted(fqdns) if domain)
+        await f.write(adaway_content)
+        logger.info(
+            "%d AdAway hosts written to %s at %s",
+            len(fqdns),
+            adaway_filename,
+            adaway_timestamp,
+        )
+
     registered_domains_timestamp: str = current_datetime_str()
     registered_domains_filename = "urls_UBL.txt"
     async with aiofiles.open(registered_domains_filename, "w") as f:
-        await f.writelines(
+        await f.write(
             "\n".join(f"*://*.{r}/*" for r in sorted(registered_domains))
         )
         logger.info(
