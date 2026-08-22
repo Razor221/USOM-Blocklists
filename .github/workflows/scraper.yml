@@ -1,31 +1,35 @@
 name: scraper
 
 on:
-    workflow_dispatch:
-    schedule:
-        - cron: "0 12 * * *" # runs at 12:00 UTC everyday
+  workflow_dispatch:
+  schedule:
+    - cron: "0 12 * * *" # runs at 12:00 UTC everyday
 
 jobs:
-    generate_list:
-        runs-on: ubuntu-slim
-        steps:
-            - name: checkout repo content
-              uses: actions/checkout@v7
+  generate_list:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Allows git push to commit updated files
 
-            - name: Install uv
-              uses: astral-sh/setup-uv@v10.0.1
+    steps:
+      - name: checkout repo content
+        uses: actions/checkout@v4
 
-            - name: Download URLs
-              run: uv run scraper.py
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
 
-            - name: create adblocking lists
-              run: |
-                  sed 's/^/\|\|/;s/$/\^/' urls.txt > urls_ABP.txt
-                  sed 's/^/\|\|/;s/$/\^$all/' urls.txt > urls_UBO.txt
+      - name: Download URLs
+        run: uv run scraper.py
 
-            - name: commit files
-              run: |
-                  git config --local user.email "action@github.com"
-                  git config --local user.name "GitHub Action"
-                  git add -A
-                  git diff --name-only --cached --exit-code || ( git commit -am "update lists" && git push )
+      - name: create adblocking lists
+        run: |
+          sed 's/^/\|\|/;s/$/\^/' urls.txt > urls_ABP.txt
+          sed 's/^/\|\|/;s/$/\^$all/' urls.txt > urls_UBO.txt
+          sed 's/^/0.0.0.0 /' urls_pihole.txt > usom_hosts_adaway.txt
+
+      - name: commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git diff --name-only --cached --exit-code || ( git commit -m "update lists" && git push )
