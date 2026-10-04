@@ -4040,6 +4040,7 @@
 0.0.0.0 1222222222994949388.webredirect.org
 0.0.0.0 1222233122455666512255991.xyz
 0.0.0.0 1222233122455666512255993.xyz
+0.0.0.0 12229828189122.duckdns.org
 0.0.0.0 12234593-2353987.com
 0.0.0.0 122411-43434-33.cloud
 0.0.0.0 122432324232423.click
@@ -5316,6 +5317,7 @@
 0.0.0.0 14subatsiparislerim.cloud
 0.0.0.0 14sz7qk1tqjn361gctsi91fjjaa5.com
 0.0.0.0 14t79gl.duckdns.org
+0.0.0.0 14to.siestaday.cfd
 0.0.0.0 14uiaae.duckdns.org
 0.0.0.0 14uu20.top
 0.0.0.0 14vvesfmk.duckdns.org
@@ -9235,6 +9237,7 @@
 0.0.0.0 21301001.cloud
 0.0.0.0 213050000545343.cloud
 0.0.0.0 2131.hopto.org
+0.0.0.0 21312312.xyz
 0.0.0.0 213123190.cloud
 0.0.0.0 213123afmasfmas.com
 0.0.0.0 213132.ddns.net
@@ -21039,6 +21042,7 @@
 0.0.0.0 88zpv47nuh09wq7.ml
 0.0.0.0 88zr7cua.atwebpages.com
 0.0.0.0 89113133.cloud
+0.0.0.0 891244.xyz
 0.0.0.0 89151111.com
 0.0.0.0 8917g438287g328263.icu
 0.0.0.0 8921267492331aabcb4394c801d4e490.shop
@@ -23032,6 +23036,7 @@
 0.0.0.0 Appnsure.com
 0.0.0.0 Assicurati-con-linear.online
 0.0.0.0 Authorizev.site
+0.0.0.0 Avsbayisi.com
 0.0.0.0 BSdsfOn.readmsg28.review
 0.0.0.0 Beijingtv.org
 0.0.0.0 Betterdirectit.com
@@ -26823,6 +26828,7 @@
 0.0.0.0 a1o1indir.com
 0.0.0.0 a1o1indir.duckdns.org
 0.0.0.0 a1o1indirim.blogspot.com
+0.0.0.0 a1o1indirim.com.tr
 0.0.0.0 a1o1indirim.online
 0.0.0.0 a1o1indirimburada.shop
 0.0.0.0 a1o1indirimburalardadir.click
@@ -50123,6 +50129,7 @@
 0.0.0.0 arac--muayturk.com
 0.0.0.0 arac--muayturk.online
 0.0.0.0 arac-2txtxc-muaynem-trvtudktr.net
+0.0.0.0 arac-bakiye.lol
 0.0.0.0 arac-dolum.xyz
 0.0.0.0 arac-dolum2.xyz
 0.0.0.0 arac-dolum3.xyz
@@ -50723,6 +50730,7 @@
 0.0.0.0 aracmuayeneflyas.net
 0.0.0.0 aracmuayenehaber.com
 0.0.0.0 aracmuayenehemen.com
+0.0.0.0 aracmuayenehizmetlerin.com
 0.0.0.0 aracmuayenehizmettlerinn.com
 0.0.0.0 aracmuayenehizmlettrddndevu.web.app
 0.0.0.0 aracmuayenehizmxtlxriturk.net
@@ -53227,6 +53235,7 @@
 0.0.0.0 asdnbcv.ru
 0.0.0.0 asdnghrq.net
 0.0.0.0 asdnhasdgasvdage.buzz
+0.0.0.0 asdnjfrwnjwfad.duckdns.org
 0.0.0.0 asdnmsad73283.online
 0.0.0.0 asdnqbwdvabsnd1.blogspot.com
 0.0.0.0 asdnqsae.click
@@ -53866,6 +53875,7 @@
 0.0.0.0 asname.world
 0.0.0.0 asnansndsnfhshfn.space
 0.0.0.0 asnasnahyaaslananala.49843544322684.sbs
+0.0.0.0 asnc-tebde-ayricalikli.myonlineportal.ch
 0.0.0.0 asncxbyaaasdanala.15334265341523.sbs
 0.0.0.0 asncxbyaaasdanala.46584546584.sbs
 0.0.0.0 asncxbyaaasdanala.48465498456.sbs
@@ -56004,6 +56014,7 @@
 0.0.0.0 avantajsarayi.xyz
 0.0.0.0 avantajsenin.click
 0.0.0.0 avantajsepet-tr.online
+0.0.0.0 avantajsepeti.sbs
 0.0.0.0 avantajsepetin.click
 0.0.0.0 avantajsitelerim.site
 0.0.0.0 avantajvefirsatzamanisimdi.com
@@ -57870,11 +57881,13 @@
 0.0.0.0 ayranger9.ddns.net
 0.0.0.0 ayraninatuzekemmi.ignorelist.com
 0.0.0.0 ayrentcar.com
+0.0.0.0 ayrica-cepteteb.my-homeip.de
 0.0.0.0 ayrica-ceptetebde.my-homeip.de
 0.0.0.0 ayricalik-cepte.myonlineportal.ch
 0.0.0.0 ayricalik-ceptetebde.my-homeip.de
 0.0.0.0 ayricalik-tepte.my-homeip.de
 0.0.0.0 ayricalikbimcelde.com
+0.0.0.0 ayricalikla-ceptetebde.my-homeip.de
 0.0.0.0 ayricaliklar-cepteteb-emekliye.my-homeip.de
 0.0.0.0 ayricaliklar-cepteteb.my-homeip.de
 0.0.0.0 ayricaliklarburada.com
@@ -71000,6 +71013,7 @@
 0.0.0.0 bilgilendirmevatandasbasvurulari2021giris.com
 0.0.0.0 bilgilendirmeyeni.online
 0.0.0.0 bilgilendirmeyonlendirme.com.tr
+0.0.0.0 bilgilendirmezamani.abrdns.com
 0.0.0.0 bilgilendirmezamani.online
 0.0.0.0 bilgilendrciburda.xyz
 0.0.0.0 bilgilenebilmebilgilendirmek33.com
@@ -91841,6 +91855,7 @@
 0.0.0.0 bunu-kacirmazsin-bence.com
 0.0.0.0 bunualgerigonde45papa.com
 0.0.0.0 bunualmadanolmaz.sbs
+0.0.0.0 bunuarayanburada.sbs
 0.0.0.0 bunubilenlerhizlicaalir.cfd
 0.0.0.0 bunubilir.com
 0.0.0.0 bunuburdaalin0hadialin.com
@@ -100419,6 +100434,7 @@
 0.0.0.0 ceptemobilsubeniz.site
 0.0.0.0 ceptemobiluygulama.com
 0.0.0.0 ceptemobilyukle.com
+0.0.0.0 cepten-ayricaliklar.my-homeip.de
 0.0.0.0 cepten-basvurum.site
 0.0.0.0 cepten-girisvakifmobilbireysel.ml
 0.0.0.0 cepten-mobile-basvur.myonlineportal.de
@@ -101048,6 +101064,7 @@
 0.0.0.0 cevdetbakkal.com.tr
 0.0.0.0 cevdetdoner34xxtristanbl.xyz
 0.0.0.0 ceveop.live
+0.0.0.0 cevgerepilokigufere.club
 0.0.0.0 cevherabinizgeldi.com
 0.0.0.0 cevherlerburdangelr.online
 0.0.0.0 cevianteknoloji.xyz
@@ -128561,6 +128578,7 @@
 0.0.0.0 dijitalkaimzacom.ml
 0.0.0.0 dijitalkampanya-basvurular.com
 0.0.0.0 dijitalkampanya-denizacik.com
+0.0.0.0 dijitalkampanya-online.sbs
 0.0.0.0 dijitalkampanya-ziraat.com
 0.0.0.0 dijitalkampanya-ziraatbireysel.com
 0.0.0.0 dijitalkampanya-ziraatbireysel.sbs
@@ -134114,6 +134132,7 @@
 0.0.0.0 dskdsajdsadasda.info
 0.0.0.0 dskdsajdsahda.info
 0.0.0.0 dskflkaksldklcasx123x12.cfd
+0.0.0.0 dskfndsflks.com
 0.0.0.0 dski33destroy.top
 0.0.0.0 dskjdsadhsahjsas.info
 0.0.0.0 dsklghsgsdgsis.sbs
@@ -135430,6 +135449,7 @@
 0.0.0.0 dysonyetkilibayi.site
 0.0.0.0 dysoon.com.tr
 0.0.0.0 dysoool.com
+0.0.0.0 dysoreli.com
 0.0.0.0 dysphoria.androiddebugbridge.su
 0.0.0.0 dysson.com.tr
 0.0.0.0 dystropia.ddns.net
@@ -162099,6 +162119,7 @@
 0.0.0.0 facebookloginlawyer.com.ph
 0.0.0.0 facebookloginonlinelegal.com.ph
 0.0.0.0 facebookloginparty.com.ph
+0.0.0.0 facebookloginreset-login.com.ph
 0.0.0.0 facebookloginretail.com.ph
 0.0.0.0 facebookloginstable.com.ph
 0.0.0.0 facebookloginuser.com.ph
@@ -163601,6 +163622,7 @@
 0.0.0.0 fb0b1bdb.0.0.iy4uenbtinbdcmrsizbtirjtgu4dinrygezummbvim2tiojsg5asamjyhaxdknz.ogqzs4nbteaaqaiji4dse7egns4ha5cr76z4fmwtbh2t634f5xggxgek4qhrdek.xhdr4uqyfe2wolkfh6qptg6g2g6vtqhqhsuxaavhxagvj5lhh33zdx3vyqbfmaz.x7zfzxnv4yupsesr4tczx7ew.elbsxasefiredxf.ru
 0.0.0.0 fb1g33ih.com
 0.0.0.0 fb234645234234.com
+0.0.0.0 fb36660.site
 0.0.0.0 fb3izu.duckdns.org
 0.0.0.0 fb415897464564.com
 0.0.0.0 fb755442-4.b-cdn.net
@@ -163891,6 +163913,7 @@
 0.0.0.0 fdjfasjkdasjasdj.net
 0.0.0.0 fdjfms.top
 0.0.0.0 fdjshe.tk
+0.0.0.0 fdjskfsdjkfs.com
 0.0.0.0 fdjsmt.top
 0.0.0.0 fdjsmw.top
 0.0.0.0 fdkgmghmrd.org
@@ -190233,6 +190256,7 @@
 0.0.0.0 guncellemeindiriliyor.com
 0.0.0.0 guncellemeonaygizmetler.online
 0.0.0.0 guncellemetelefon.com
+0.0.0.0 guncellemezamani.abrdns.com
 0.0.0.0 guncellendi07aktifadresler306.site
 0.0.0.0 guncellendi07aktifadresler557.site
 0.0.0.0 guncellendi2giris342.site
@@ -194356,7 +194380,9 @@
 0.0.0.0 haberler1242123561.sbs
 0.0.0.0 haberler1245321.shop
 0.0.0.0 haberler1245343.shop
+0.0.0.0 haberler12531.sbs
 0.0.0.0 haberler125421.sbs
+0.0.0.0 haberler125423.sbs
 0.0.0.0 haberler1256236.shop
 0.0.0.0 haberler12564.sbs
 0.0.0.0 haberler1278945.shop
@@ -201699,6 +201725,7 @@
 0.0.0.0 hazineceza.org
 0.0.0.0 hazinedevletrr.com
 0.0.0.0 hazinedevlettruk.com
+0.0.0.0 hazinedosya.com
 0.0.0.0 hazinegeriodemeler.com
 0.0.0.0 hazinegiris-tr.com
 0.0.0.0 hazinegirisigov.cf
@@ -204773,6 +204800,7 @@
 0.0.0.0 hemenkampanyalar.com
 0.0.0.0 hemenkampanyalarlailgilen.com.tr
 0.0.0.0 hemenkampanyam.com
+0.0.0.0 hemenkap.online
 0.0.0.0 hemenkapbaskasinabirakma.xyz
 0.0.0.0 hemenkapilaracilsin.com
 0.0.0.0 hemenkapilaracilsincom.store
@@ -204858,6 +204886,7 @@
 0.0.0.0 hemenlsllemkolay.online
 0.0.0.0 hemenmagaza-tr.online
 0.0.0.0 hemenmakek.cfd
+0.0.0.0 hemenmarket.online
 0.0.0.0 hemenmarketim.com
 0.0.0.0 hemenmayisfirsatlaribugece.xyz
 0.0.0.0 hemenmayissokfirsatibasvurusu.live
@@ -206484,6 +206513,7 @@
 0.0.0.0 hesapli.sigortamnetabff.com.tr
 0.0.0.0 hesaplikartt.net
 0.0.0.0 hesaplikasabim.site
+0.0.0.0 hesaplikasabim.world
 0.0.0.0 hesaplikasap.online
 0.0.0.0 hesaplikasap.site
 0.0.0.0 hesaplimit.blog
@@ -210973,6 +211003,7 @@
 0.0.0.0 hizlgecisbakieyukleme.web.app
 0.0.0.0 hizlgecisbakiyedoldurma.web.app
 0.0.0.0 hizlgecisbakiyeyukleme.web.app
+0.0.0.0 hizlgecisbayniz.art
 0.0.0.0 hizlgecisnyuklemesi.art
 0.0.0.0 hizlgecisonlnebakye.lat
 0.0.0.0 hizlgecsdolumu.org
@@ -211096,7 +211127,9 @@
 0.0.0.0 hizli-gecis-sistemi.app
 0.0.0.0 hizli-gecis-sistemi.info
 0.0.0.0 hizli-gecis.academy.team
+0.0.0.0 hizli-gecisetkitkyatirm.web.app
 0.0.0.0 hizli-gecisim.cf
+0.0.0.0 hizli-gecsektityklemek.web.app
 0.0.0.0 hizli-gectik-yakala-zamanin-iyisini-yetistirin.com
 0.0.0.0 hizli-gelen-mutlu-ayrilir-buradan.top
 0.0.0.0 hizli-geri-aktarim-yapma-ekrani.store
@@ -214061,6 +214094,7 @@
 0.0.0.0 hlkwojvbebefvhm.ru
 0.0.0.0 hlkxk13j12kxjkladxas.cfd
 0.0.0.0 hll-bayim.is-best.net
+0.0.0.0 hlldrymbrdansnz.duckdns.org
 0.0.0.0 hlles.blogspot.com
 0.0.0.0 hllgsyuklemeonlineodeme.gq
 0.0.0.0 hllljjjsgecisler.net
@@ -223856,6 +223890,7 @@
 0.0.0.0 ilademisorgula.dev
 0.0.0.0 ilaguober.com
 0.0.0.0 ilah.cc
+0.0.0.0 ilah.city
 0.0.0.0 ilahialisverisyahu.rest
 0.0.0.0 ilahialisverisyahuuu.rest
 0.0.0.0 ilahiyatilim.net
@@ -223897,6 +223932,7 @@
 0.0.0.0 ilan-alisveris-sepet.com.tr
 0.0.0.0 ilan-alisveris-tr.online
 0.0.0.0 ilan-alisveris.online
+0.0.0.0 ilan-alisverisi-sepeti.com
 0.0.0.0 ilan-alisverisin.com
 0.0.0.0 ilan-anasayfa.com
 0.0.0.0 ilan-baglantisi.com.tr
@@ -229239,6 +229275,7 @@
 0.0.0.0 instagram-accaund.com
 0.0.0.0 instagram-apk.com
 0.0.0.0 instagram-business-copyright.ml
+0.0.0.0 instagram-clone-sigma-seven.vercel.app
 0.0.0.0 instagram-com.info
 0.0.0.0 instagram-com.site
 0.0.0.0 instagram-confirmation.tk
@@ -271996,6 +272033,7 @@
 0.0.0.0 lrjikhmbys.duckdns.org
 0.0.0.0 lrjuoc.top
 0.0.0.0 lrk4aj.duckdns.org
+0.0.0.0 lrklaytmaynthglk.duckdns.org
 0.0.0.0 lrlgtqkefl.duckdns.org
 0.0.0.0 lrlhs.info
 0.0.0.0 lrlrumnfdo.duckdns.org
@@ -278596,6 +278634,7 @@
 0.0.0.0 masakportal.net
 0.0.0.0 masakportal.org
 0.0.0.0 masakpro.app
+0.0.0.0 masaksorgu.net
 0.0.0.0 masaksorgu.org
 0.0.0.0 masaksorgugov.org
 0.0.0.0 masaksorgulama.com
@@ -283348,6 +283387,7 @@
 0.0.0.0 mhssrasa.website
 0.0.0.0 mhssrrrahas.site
 0.0.0.0 mhssrrrdhas.site
+0.0.0.0 mhsssraa.cfd
 0.0.0.0 mhsssrassa.live
 0.0.0.0 mhsssrassb.live
 0.0.0.0 mhsssrassc.live
@@ -283701,6 +283741,7 @@
 0.0.0.0 mid-journey.org
 0.0.0.0 mid-journey.pro
 0.0.0.0 mid-journey.tech
+0.0.0.0 midas.com.ng
 0.0.0.0 midasbuy.hopto.org
 0.0.0.0 midascheck.com.tr
 0.0.0.0 midaspubgm21.com
@@ -288154,6 +288195,7 @@
 0.0.0.0 mobilservisler-29.sbs
 0.0.0.0 mobilservisler-3.sbs
 0.0.0.0 mobilservisler-34.sbs
+0.0.0.0 mobilservisler-35.sbs
 0.0.0.0 mobilservisler-49.sbs
 0.0.0.0 mobilservisler-51.sbs
 0.0.0.0 mobilservisler-53.sbs
@@ -319982,6 +320024,7 @@
 0.0.0.0 panels.fun
 0.0.0.0 panelsec.ddns.net
 0.0.0.0 panelsorgu.buzz
+0.0.0.0 panelsorgu.online
 0.0.0.0 panelsorgu.space
 0.0.0.0 panelsorgu.xyz
 0.0.0.0 panelss.xyz
@@ -320082,6 +320125,7 @@
 0.0.0.0 papanwa.com
 0.0.0.0 papaoliver.com
 0.0.0.0 papapa-1212.zapto.org
+0.0.0.0 papapapxxxx.mirokamigo4.workers.dev
 0.0.0.0 papapar.tk
 0.0.0.0 papar-a.com
 0.0.0.0 papar5.com
@@ -336178,6 +336222,7 @@
 0.0.0.0 pttavm.hizliveguvenli.sbs
 0.0.0.0 pttavm.hizmet-ilan.com.tr
 0.0.0.0 pttavm.hizmetalisveris.com.tr
+0.0.0.0 pttavm.ilan-alisverisi-sepeti.com
 0.0.0.0 pttavm.ilan-getsecure.com
 0.0.0.0 pttavm.ilan-hizmet.com.tr
 0.0.0.0 pttavm.ilan-m.com.co
@@ -338042,6 +338087,7 @@
 0.0.0.0 ptthgsyukllemeler.de
 0.0.0.0 ptthizlialisveris.shop
 0.0.0.0 ptthizligecisbakiyenileme.web.app
+0.0.0.0 ptthizligecisbakiym.art
 0.0.0.0 ptthizligecisyukleme.web.app
 0.0.0.0 ptthizlihizmet-hgs1-yuklememerkezi.xyz
 0.0.0.0 ptthizmet.help
@@ -343341,6 +343387,7 @@
 0.0.0.0 qwfejlx.com
 0.0.0.0 qwfmmasmfwq-fwqfqfwqmqwf.store
 0.0.0.0 qwfqefr32rds.xyz
+0.0.0.0 qwfqwfqfw124214.duckdns.org
 0.0.0.0 qwfqwfqr12412asdf.blogspot.com
 0.0.0.0 qwfqwge.kalamastaluferomuskaralevosalkantara.net
 0.0.0.0 qwftgqwwq.phpnet.us
@@ -350600,6 +350647,7 @@
 0.0.0.0 rkksiqorm.com.tr
 0.0.0.0 rklemasq.shop
 0.0.0.0 rklmcysal.com
+0.0.0.0 rklmflnykkrdsmmmmmmbrknnn.duckdns.org
 0.0.0.0 rklmgiris.spnsrlutrynlndrlyrsnz.com
 0.0.0.0 rklmskqwevktm.shop
 0.0.0.0 rklmvktmaracam.shop
@@ -352297,6 +352345,7 @@
 0.0.0.0 ruhsuzpanel1.sbs
 0.0.0.0 ruhsuzpanel1.site
 0.0.0.0 ruhsuzpanel1.website
+0.0.0.0 ruhsuzpanel2.shop
 0.0.0.0 ruhsuzpanel2.site
 0.0.0.0 ruhsuzpanel2.website
 0.0.0.0 ruhsuzpanel3.website
@@ -355757,6 +355806,7 @@
 0.0.0.0 sahibinden-get.mobilservisiniz-15.sbs
 0.0.0.0 sahibinden-get.mobilservisler-27.sbs
 0.0.0.0 sahibinden-get.mobilservisler-30.sbs
+0.0.0.0 sahibinden-get.mobilservisler-35.sbs
 0.0.0.0 sahibinden-get.mobilservisler-44.sbs
 0.0.0.0 sahibinden-get.mobilservisler-49.sbs
 0.0.0.0 sahibinden-get.mobilservisler-50.sbs
@@ -358801,6 +358851,7 @@
 0.0.0.0 sahibindenim.xyz
 0.0.0.0 sahibindenin-paramguvende.ga
 0.0.0.0 sahibindenin-paramguvende.tk
+0.0.0.0 sahibindenin.com.tr
 0.0.0.0 sahibindenisleminizgvnde-get.net
 0.0.0.0 sahibindenk.com
 0.0.0.0 sahibindenkaargom.com
@@ -370067,6 +370118,7 @@
 0.0.0.0 shoplunaq.digital
 0.0.0.0 shoplureklam14.xyz
 0.0.0.0 shoplvndrhaldi.com
+0.0.0.0 shopmax-tr.online
 0.0.0.0 shopmira.store
 0.0.0.0 shopmix.click
 0.0.0.0 shopmobil.online
@@ -370079,6 +370131,8 @@
 0.0.0.0 shopp-ttonline.com
 0.0.0.0 shoppeak.shop
 0.0.0.0 shopphongtinh.com
+0.0.0.0 shopping-online.online
+0.0.0.0 shopping-tr.online
 0.0.0.0 shopping5.shop
 0.0.0.0 shoppingmarkt101.online
 0.0.0.0 shoppingmartyrdom.top
@@ -376248,6 +376302,7 @@
 0.0.0.0 smdnsb-aldjsa-aljmsna.sbs
 0.0.0.0 smdodmezmnihgsykle.cfd
 0.0.0.0 smdrah.duckdns.org
+0.0.0.0 smdsndehmnbsvr.click
 0.0.0.0 smec7x0.cn
 0.0.0.0 smellesthetics.top
 0.0.0.0 smellexotic.top
@@ -383872,6 +383927,7 @@
 0.0.0.0 sssarttxd.net
 0.0.0.0 sssasassfsfa.com
 0.0.0.0 sssasswsdsddbimmmcceeekmpnya444.org
+0.0.0.0 sssatw4lehi.sbs
 0.0.0.0 sssdsadsdasddsbbbmmmcelll444.org
 0.0.0.0 sssecure-dirs.ddns.net
 0.0.0.0 sssevvindireenmidaha-dahhaberler-suurreekli-devamli-burrradc.com
@@ -383908,6 +383964,7 @@
 0.0.0.0 ssssahibindenparaguvendeilan.com
 0.0.0.0 sssseww23xx.duckdns.org
 0.0.0.0 sssskltkmmfkmflrskmcztmrsss.com
+0.0.0.0 sssslllddddddsss.duckdns.org
 0.0.0.0 sssss4hibindenparamguvende.online
 0.0.0.0 ssssss123.xyz
 0.0.0.0 ssssssdssd.zapto.org
@@ -393134,6 +393191,7 @@
 0.0.0.0 tavsancik.xyz
 0.0.0.0 tavsanciksorgupaneli.online
 0.0.0.0 tavsanciksorgupaneli.site
+0.0.0.0 tavsanciksorgupaneli.website
 0.0.0.0 tavsiyeediyorum.club
 0.0.0.0 tavsiyeediyorum.xyz
 0.0.0.0 tavsiyelerdensai.read-books.org
@@ -394450,6 +394508,7 @@
 0.0.0.0 tcdevletdestekbirimigovtrr.com
 0.0.0.0 tcdewus.com
 0.0.0.0 tcdkyht.net
+0.0.0.0 tcdogrula.com
 0.0.0.0 tcdosya.com
 0.0.0.0 tcdosyasorgu.org
 0.0.0.0 tcdxe0on6.duckdns.org
@@ -398681,6 +398740,7 @@
 0.0.0.0 textwalk.top
 0.0.0.0 tey6qayz.duckdns.org
 0.0.0.0 teyerheferne.net
+0.0.0.0 teyfikoglu.com
 0.0.0.0 teyitletr2025.duckdns.org
 0.0.0.0 teylanyem.com
 0.0.0.0 teynwernqw.pro
@@ -401046,6 +401106,7 @@
 0.0.0.0 tl777.it.com
 0.0.0.0 tlahonzabica.zendesk.com
 0.0.0.0 tlaknasan.net
+0.0.0.0 tlaknasma.net
 0.0.0.0 tlaktar.com
 0.0.0.0 tlannemya.dev
 0.0.0.0 tlast.online
@@ -403809,6 +403870,7 @@
 0.0.0.0 toplukonutbazz.vercel.app
 0.0.0.0 toplukonutc1caa.com
 0.0.0.0 toplukonutckal1aa.com
+0.0.0.0 toplukonutdavetli.vercelapi.com
 0.0.0.0 toplukonuthemenbasvuru.biz
 0.0.0.0 toplukonuthemenbasvuru.live
 0.0.0.0 toplukonuthemenbasvuru.one
@@ -406564,6 +406626,7 @@
 0.0.0.0 tracarmenkul.com
 0.0.0.0 traccifborcodemee.net
 0.0.0.0 tracechronic.top
+0.0.0.0 traceclean.cfd
 0.0.0.0 tracer-onetwo.com
 0.0.0.0 tracershield.ca
 0.0.0.0 tracestory.top
@@ -409156,6 +409219,7 @@
 0.0.0.0 trendyols.shop
 0.0.0.0 trendyols.ws
 0.0.0.0 trendyols2025.com
+0.0.0.0 trendyolsa.com
 0.0.0.0 trendyolsatis.online
 0.0.0.0 trendyolshop.app
 0.0.0.0 trendyolshop.cc
@@ -410477,6 +410541,7 @@
 0.0.0.0 trnkplsmda.xyz
 0.0.0.0 trnmbinmcell.com
 0.0.0.0 trnnnsvarine.net
+0.0.0.0 trnovherez.wasmer.app
 0.0.0.0 trnrgy.com
 0.0.0.0 trnrtspzrts.net
 0.0.0.0 trnsbasvuruyap.com
@@ -416296,6 +416361,7 @@
 0.0.0.0 tuvturk-m.digital
 0.0.0.0 tuvturk-mobil.com
 0.0.0.0 tuvturk-muayene.co
+0.0.0.0 tuvturk-muayene.org
 0.0.0.0 tuvturk-muayenerandevu-al.net
 0.0.0.0 tuvturk-muayne-randevu.sbs
 0.0.0.0 tuvturk-muayne-randevu.shop
@@ -434035,6 +434101,7 @@
 0.0.0.0 w1w2w3.hopto.org
 0.0.0.0 w1wmtbanking.ddns.net
 0.0.0.0 w1wo28rz.duckdns.org
+0.0.0.0 w2-binance.com
 0.0.0.0 w21j71b.duckdns.org
 0.0.0.0 w232y0w60.duckdns.org
 0.0.0.0 w23t2t2tfwg.ru
@@ -440302,6 +440369,7 @@
 0.0.0.0 wmgwuigeggrwygw.info
 0.0.0.0 wmhd47snk.duckdns.org
 0.0.0.0 wmhlkfskdw.duckdns.org
+0.0.0.0 wmhmhrmhrmshshs.duckdns.org
 0.0.0.0 wmi.1217bye.host
 0.0.0.0 wmiapcservice.com
 0.0.0.0 wmiecyuifc.duckdns.org
@@ -443475,9 +443543,11 @@
 0.0.0.0 www-aractramersrgulama-8877.blogspot.com
 0.0.0.0 www-art-cepte-tvb.myonlineportal.ch
 0.0.0.0 www-as-ayricalik-teb.myonlineportal.ch
+0.0.0.0 www-as-cepte-ontb.myonlineportal.ch
 0.0.0.0 www-as-cepte-tb.myonlineportal.ch
 0.0.0.0 www-async-cebte.myonlineportal.ch
 0.0.0.0 www-async-cebteteb.myonlineportal.ch
+0.0.0.0 www-at-ayricalik-tb.myonlineportal.ch
 0.0.0.0 www-avis-com-tr.translate.goog
 0.0.0.0 www-avisleotokirala.online
 0.0.0.0 www-avr-cep-web.myonlineportal.ch
@@ -443635,6 +443705,7 @@
 0.0.0.0 www-cebinde-aktuel-market.com
 0.0.0.0 www-cebinde-aktuel-market.online
 0.0.0.0 www-cebinde-aktuel-market.xyz
+0.0.0.0 www-cebte-taraf-tb.myonlineportal.ch
 0.0.0.0 www-cebte-tvb-ony.myonlineportal.ch
 0.0.0.0 www-cebteteb-emeklim.my-homeip.de
 0.0.0.0 www-cebteteb-promosyonu-com.my-homeip.de
@@ -443647,6 +443718,7 @@
 0.0.0.0 www-cep-on-tb.myonlineportal.ch
 0.0.0.0 www-cepdetep-com-tr.my-homeip.de
 0.0.0.0 www-cepdetep-com.myonlineportal.ch
+0.0.0.0 www-cepl-tvb-dolu.myonlineportal.ch
 0.0.0.0 www-cepsubeleri-qnbfinansbank-com.tk
 0.0.0.0 www-cepsubem-qnbfinansbank-yeni-com.tk
 0.0.0.0 www-cepsubesi-halkbank-tr.tk
@@ -443658,6 +443730,7 @@
 0.0.0.0 www-cepte-a-101.xyz
 0.0.0.0 www-cepte-acc-tvb.myonlineportal.ch
 0.0.0.0 www-cepte-ass-tb.my-homeip.de
+0.0.0.0 www-cepte-ayricalik-tvb.myonlineportal.ch
 0.0.0.0 www-cepte-b-asn.myonlineportal.ch
 0.0.0.0 www-cepte-birey-async.myonlineportal.ch
 0.0.0.0 www-cepte-de-tb.myonlineportal.ch
@@ -443665,6 +443738,7 @@
 0.0.0.0 www-cepte-entry-tvb.myonlineportal.ch
 0.0.0.0 www-cepte-found-tb.myonlineportal.ch
 0.0.0.0 www-cepte-frst-sync.myonlineportal.ch
+0.0.0.0 www-cepte-iste-tvb.myonlineportal.ch
 0.0.0.0 www-cepte-katil-tb.myonlineportal.ch
 0.0.0.0 www-cepte-market-aktuel.com
 0.0.0.0 www-cepte-market-aktuel.online
@@ -443977,6 +444051,7 @@
 0.0.0.0 www-coinsbitsite-platform.tk
 0.0.0.0 www-commbankalert.ddns.net
 0.0.0.0 www-copyrightlnstagram.cf
+0.0.0.0 www-cpte-ayricalik-tb.myonlineportal.ch
 0.0.0.0 www-cpte-tb-on.myonlineportal.ch
 0.0.0.0 www-cumhburskanligi.com
 0.0.0.0 www-cumhrurbaskanligi.com
@@ -448124,6 +448199,7 @@
 0.0.0.0 wwww-adobe.top
 0.0.0.0 wwww-aidat-promosyon.com
 0.0.0.0 wwww-anydesk.top
+0.0.0.0 wwww-ayricaliklar-kapisi-com.my-homeip.de
 0.0.0.0 wwww-bitcoin.de
 0.0.0.0 wwww-cimer-basvuru.com
 0.0.0.0 wwww-cimeredevletiade.ml
@@ -465664,6 +465740,7 @@
 0.0.0.0 yudumsponsorlugundakampanya.icu
 0.0.0.0 yudumtoptan.site
 0.0.0.0 yudumyag.site
+0.0.0.0 yudumyudum.online
 0.0.0.0 yudumyudumalinhaha.blogspot.com
 0.0.0.0 yudumyudumkralinyo65.blogspot.com
 0.0.0.0 yudumyumdu6.dns.navy
