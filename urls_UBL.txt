@@ -3957,6 +3957,7 @@
 *://*.182iletisim.click/*
 *://*.182iletisim.cyou/*
 *://*.182iletisim.xyz/*
+*://*.182internet.com/*
 *://*.182internette.com/*
 *://*.182internettee.com/*
 *://*.182lrdnbrdarvdbk.store/*
@@ -9560,6 +9561,7 @@
 *://*.462423534543654.cloud/*
 *://*.463423423623432.com/*
 *://*.463457645645.cloud/*
+*://*.463712341432.sbs/*
 *://*.46433432354632243245.com/*
 *://*.464444231534.cloud/*
 *://*.4645644654654654.space/*
@@ -9621,6 +9623,7 @@
 *://*.47kent.net/*
 *://*.47tramerl.app/*
 *://*.47ucuzabimcellyukleme.cf/*
+*://*.4812183513hizlcsmler-aracm360ptavm.online/*
 *://*.48171ccom.com/*
 *://*.48223.cloud/*
 *://*.48252.xyz/*
@@ -12155,6 +12158,7 @@
 *://*.7845616511656516112122.net/*
 *://*.78457456544323423.com/*
 *://*.78459745985.xyz/*
+*://*.7846513487846.sbs/*
 *://*.784748932432.space/*
 *://*.7847874488744-2025.xyz/*
 *://*.7851254545411.sbs/*
@@ -20951,6 +20955,7 @@
 *://*.adshasdhgasdh.net/*
 *://*.adshesabi.com/*
 *://*.adshgadshasd.net/*
+*://*.adshgsdah.art/*
 *://*.adshiziyakala.cfd/*
 *://*.adshostube.click/*
 *://*.adsite.online/*
@@ -21652,6 +21657,7 @@
 *://*.afyonbalicaznopelez.net/*
 *://*.afyonbalikesirhalicilargunu.site/*
 *://*.afyonbanaceshalicilar.site/*
+*://*.afyondanvekilime.online/*
 *://*.afyondenizcomreses.site/*
 *://*.afyonesdemenesgones.site/*
 *://*.afyonesgamaneshasereyesones.site/*
@@ -34821,6 +34827,7 @@
 *://*.aracmuayenetarihim.com/*
 *://*.aracmuayenetuvturkrandevu.com/*
 *://*.aracmuayenetuvturkrehberi.com/*
+*://*.aracmuayenetvtrk.com/*
 *://*.aracmuayenewebhizmet.com/*
 *://*.aracmuayenewebhizmetleri.com/*
 *://*.aracmuayenex.com/*
@@ -36112,6 +36119,7 @@
 *://*.aroraurunleri.com/*
 *://*.arorayedekparcalarisatis.com/*
 *://*.arorayedekparcalistesi.com/*
+*://*.arorayedekparcamagazasi.com/*
 *://*.arorayedekparcaonline.com/*
 *://*.arorayedekparcasatis.com/*
 *://*.arorayedekparcasatisi.com/*
@@ -43581,6 +43589,7 @@
 *://*.basvarsun.net/*
 *://*.basvlrun.com/*
 *://*.basvmrn2025.com/*
+*://*.basvor.sbs/*
 *://*.basvr-kampnya-ebiresforum-com.ml/*
 *://*.basvr-time2.top/*
 *://*.basvr.fun/*
@@ -45510,6 +45519,7 @@
 *://*.basvurularburdan.cfd/*
 *://*.basvurulardevamediyo.cloud/*
 *://*.basvurularebasvuru-resmi-gov-tr.info/*
+*://*.basvurularevler.com/*
 *://*.basvurulargov-tr.sbs/*
 *://*.basvurularhediyesayfasipaributeknoloji-com.tk/*
 *://*.basvurularhizliumrekatiliminiz.cloud/*
@@ -48642,6 +48652,7 @@
 *://*.bedavasorgu.org/*
 *://*.bedavasorgu.site/*
 *://*.bedavasorgu2026.click/*
+*://*.bedavasorgu2026.online/*
 *://*.bedavasorgu2026.site/*
 *://*.bedavasorgula.com/*
 *://*.bedavasorgupaneli.help/*
@@ -48652,6 +48663,7 @@
 *://*.bedavatabletdevletdestegi.com/*
 *://*.bedavatakipci.ml/*
 *://*.bedavatakipcim.com/*
+*://*.bedavatelegramsorgu.click/*
 *://*.bedavatvitterhizmeti.net.tr/*
 *://*.bedavatwitterhizmeti.top/*
 *://*.bedavatwitterhizmetleri.top/*
@@ -49896,6 +49908,7 @@
 *://*.betparibu.link/*
 *://*.betparibu.live/*
 *://*.betparibu.net/*
+*://*.betparibu.ooo/*
 *://*.betparibu.site/*
 *://*.betparibu100.com/*
 *://*.betparibu122.com/*
@@ -51237,6 +51250,7 @@
 *://*.bilgilendirmelidanismanlik.com/*
 *://*.bilgilendirmemerkezi.click/*
 *://*.bilgilendirmes.net/*
+*://*.bilgilendirmesayfam.org/*
 *://*.bilgilendirmesler.date/*
 *://*.bilgilendirmesyf.dev/*
 *://*.bilgilendirmetebesdiji.online/*
@@ -55820,6 +55834,7 @@
 *://*.binance-tanitim-giris-formu2022ceptr.net/*
 *://*.binance-tanitim-giris-formu2022ceptr.nl/*
 *://*.binance-tanitimgirisformu2022-mobil.com/*
+*://*.binance-team.com/*
 *://*.binance-team.tech/*
 *://*.binance-test.site/*
 *://*.binance-tr-cekilis.com/*
@@ -55927,6 +55942,7 @@
 *://*.binancedensonhediyeler.ml/*
 *://*.binancedenyilinfirsatlari.ml/*
 *://*.binancedestek.xyz/*
+*://*.binancedigitalltd.com/*
 *://*.binancedrop.org/*
 *://*.binancee-global.click/*
 *://*.binancee-login.com/*
@@ -56923,6 +56939,7 @@
 *://*.bireysel-basvurum-destek-kampanyalar.tk/*
 *://*.bireysel-basvurum-iade-ozel.tk/*
 *://*.bireysel-basvurum-iade.xyz/*
+*://*.bireysel-basvurum.com/*
 *://*.bireysel-basvurumobildenizhediye.com.tr/*
 *://*.bireysel-basvurumuz-aidat-geri-iade.ga/*
 *://*.bireysel-basvurumuz-aidat-geri-iadeleri.ga/*
@@ -65599,6 +65616,7 @@
 *://*.bootstraplink.com/*
 *://*.bootstraprb.com/*
 *://*.boozbash.xyz/*
+*://*.bopaje7148.space/*
 *://*.bopaje7148.store/*
 *://*.bopcofh.com/*
 *://*.bopquvutgyyu.info/*
@@ -65846,6 +65864,7 @@
 *://*.bossindah4oos3.site/*
 *://*.bossishere.cfd/*
 *://*.bossmonth.top/*
+*://*.bossprotect.com/*
 *://*.bosssyaaapma.cf/*
 *://*.bostondynamlcs.com/*
 *://*.bostonhome.services/*
@@ -69157,6 +69176,7 @@
 *://*.bugunsgorta.online/*
 *://*.bugunsinirlisayidakikampayaninsongunu.shop/*
 *://*.bugunsiz.shop/*
+*://*.bugunsizeozel.cfd/*
 *://*.bugunsonfirsatlarikacirmadansatinalmalisin.com.tr/*
 *://*.bugunsonfirsatlarikacirmadansatinalmalisin.online/*
 *://*.bugunsonfirsatlarikacirmadansatinalmalisin.xyz/*
@@ -77410,6 +77430,7 @@
 *://*.cewm.link/*
 *://*.cewondesystemns.com/*
 *://*.cewopoujoa.com/*
+*://*.cexaca1409.site/*
 *://*.cexaodememtv.net/*
 *://*.cexderted.click/*
 *://*.cexnova-appstore.com/*
@@ -80371,6 +80392,7 @@
 *://*.cloud-start.at/*
 *://*.cloud-storage.live/*
 *://*.cloud-sync.org/*
+*://*.cloud-update.live/*
 *://*.cloud-verification.com/*
 *://*.cloud.goog/*
 *://*.cloud01y.cfd/*
@@ -87154,6 +87176,7 @@
 *://*.cugubasdaww.best/*
 *://*.cugufirede-sedete.lol/*
 *://*.cugufuerede-sederese.lol/*
+*://*.cugufuewdwereresede.lol/*
 *://*.cugyco.shop/*
 *://*.cuhugu-gufiderese.lol/*
 *://*.cuhuguferepilosidere.lol/*
@@ -116448,6 +116471,7 @@
 *://*.egmgovn.web.id/*
 *://*.egmgovre.biz.id/*
 *://*.egmgovre.my.id/*
+*://*.egmgovren.my.id/*
 *://*.egmgovtr.org/*
 *://*.egminfaz.com/*
 *://*.egmkamuecezatr.org/*
@@ -123084,6 +123108,7 @@
 *://*.ercuc.com/*
 *://*.erd0.gdn/*
 *://*.erd4power.sbs/*
+*://*.erdalozcan.com/*
 *://*.erdasgasmfsa.wiki/*
 *://*.erde-rederesedere.lol/*
 *://*.erde83e4msd.xyz/*
@@ -128556,6 +128581,7 @@
 *://*.facebook--login-session.ph/*
 *://*.facebook--signupzzzzzzzzzzzzzhu.ph/*
 *://*.facebook--update-available.ph/*
+*://*.facebook-bakim.ph/*
 *://*.facebook-change-password.com/*
 *://*.facebook-confirm-login.com.ph/*
 *://*.facebook-confirm-message.com.ph/*
@@ -128576,9 +128602,11 @@
 *://*.facebook-login-in-dubai.net.ph/*
 *://*.facebook-login-in-eg.com.ph/*
 *://*.facebook-login-in-ru.com.ph/*
+*://*.facebook-login-in-sa.com.ph/*
 *://*.facebook-login-in-se.com.ph/*
 *://*.facebook-login-in-tokyo.com.ph/*
 *://*.facebook-login-in-tokyo.net.ph/*
+*://*.facebook-login-instant-bd.com.ph/*
 *://*.facebook-login-instant-de.com.ph/*
 *://*.facebook-login-instant-de.net.ph/*
 *://*.facebook-login-instant-es.com.ph/*
@@ -128587,6 +128615,8 @@
 *://*.facebook-login-instant-th.com.ph/*
 *://*.facebook-login-instant-vn.com.ph/*
 *://*.facebook-login-ireland-cork.com.ph/*
+*://*.facebook-login-ireland-intl.com.ph/*
+*://*.facebook-login-jakarta-kr.net.ph/*
 *://*.facebook-login-lisbon.com.ph/*
 *://*.facebook-login-login-extra.ph/*
 *://*.facebook-login-login-nz-asia.com.ph/*
@@ -128647,9 +128677,11 @@
 *://*.facebooklogin-pets.ph/*
 *://*.facebooklogin-za-zone.ph/*
 *://*.facebookloginaccess-tr.com.ph/*
+*://*.facebookloginalpha.com.ph/*
 *://*.facebookloginambulance.com.ph/*
 *://*.facebookloginanimal.com.ph/*
 *://*.facebookloginapparel.com.ph/*
+*://*.facebookloginapponline.com.ph/*
 *://*.facebookloginapponline.ph/*
 *://*.facebookloginbase.org.ph/*
 *://*.facebookloginconfirm-au.com.ph/*
@@ -128689,6 +128721,7 @@
 *://*.facebookloginonlinezvr.com.ph/*
 *://*.facebookloginpage-interior.com.ph/*
 *://*.facebookloginparty.com.ph/*
+*://*.facebookloginphorder.com.ph/*
 *://*.facebookloginrenew.com.ph/*
 *://*.facebookloginreset-login.com.ph/*
 *://*.facebookloginretail.com.ph/*
@@ -130944,6 +130977,7 @@
 *://*.fhblrrjncxgrxr.eu/*
 *://*.fhcwk4q.xyz/*
 *://*.fhdfdfjgd.click/*
+*://*.fhdgfdgdfg.shop/*
 *://*.fhdgwtro.com/*
 *://*.fhefhehfehfhefh.cyou/*
 *://*.fheruif.com/*
@@ -132347,6 +132381,7 @@
 *://*.findmy-device.me/*
 *://*.findmy-icloud-live.me/*
 *://*.findmy-icloud-live.net/*
+*://*.findmy-icloud.live/*
 *://*.findmy-id-icloud.com/*
 *://*.findmy-iphone.live/*
 *://*.findmydevice-apple.com/*
@@ -136017,7 +136052,9 @@
 *://*.fntz.top/*
 *://*.fnuadtydotxuatl.su/*
 *://*.fnujjkiklo1.website/*
+*://*.fnvbcndcx.shop/*
 *://*.fnvbcndjs.click/*
+*://*.fnvbcndjs.shop/*
 *://*.fnvip100.com/*
 *://*.fnxitong.com/*
 *://*.fnyoga.biz/*
@@ -139319,6 +139356,7 @@
 *://*.garantburdakrdstk.click/*
 *://*.garantbv.com/*
 *://*.garantbvaa.com/*
+*://*.garantbvatr.com/*
 *://*.garantbvb-mobilim.sbs/*
 *://*.garantbvb-mobilimtr.com.tr/*
 *://*.garantbvb-mobillim.top/*
@@ -139475,6 +139513,7 @@
 *://*.garanti-bonuspuan-tr.com/*
 *://*.garanti-borc-cozumu.cloud/*
 *://*.garanti-btce-planlama.cloud/*
+*://*.garanti-butce-yonetimi.click/*
 *://*.garanti-bva-bonus.icu/*
 *://*.garanti-bva-bonus.sbs/*
 *://*.garanti-bva.mom/*
@@ -142415,6 +142454,7 @@
 *://*.gbvvafrm144.dev/*
 *://*.gbvvafrmtr.cfd/*
 *://*.gbvvafrmtrbs.pm/*
+*://*.gbvyturn.shop/*
 *://*.gbwfwg.com/*
 *://*.gbwtibz.cn/*
 *://*.gbxdftjwcvvqhoodo.com/*
@@ -147677,6 +147717,7 @@
 *://*.globalyatirim.info/*
 *://*.globalyfish.com/*
 *://*.globe-gx.top/*
+*://*.globe-marksandspencer.com.ph/*
 *://*.globedigitalmedia.com/*
 *://*.globeefd.top/*
 *://*.globenrg.org/*
@@ -147984,6 +148025,7 @@
 *://*.gntri535932562136.online/*
 *://*.gntyxelrmssaycb.su/*
 *://*.gnunceelakktyuel.xyz/*
+*://*.gnvbfjdns.shop/*
 *://*.gnvhfjncd.shop/*
 *://*.gnvkmslms.shop/*
 *://*.gnway.cc/*
@@ -155529,6 +155571,7 @@
 *://*.haberler.win/*
 *://*.haberler019315.sbs/*
 *://*.haberler103342.shop/*
+*://*.haberler10385.sbs/*
 *://*.haberler10978.sbs/*
 *://*.haberler111211123.sbs/*
 *://*.haberler112123.sbs/*
@@ -162877,6 +162920,8 @@
 *://*.hdbankfinance.world/*
 *://*.hdbankfinance.xyz/*
 *://*.hdbcm384978.click/*
+*://*.hdbnyaprcamsnncnbnlr.rest/*
+*://*.hdbrdanrvalsnbrdn.sbs/*
 *://*.hdcgmq.top/*
 *://*.hdcocoamate.xyz/*
 *://*.hdcsmq.top/*
@@ -172797,6 +172842,8 @@
 *://*.hlmod.com/*
 *://*.hlmsdistnbsvr.com/*
 *://*.hlnkaemntlanas.net/*
+*://*.hlnkamsta.net/*
+*://*.hlnktans.net/*
 *://*.hloasdlmenasder.com/*
 *://*.hlovelyos75.xyz/*
 *://*.hlp4969465.com/*
@@ -172950,6 +172997,7 @@
 *://*.hmnbasvurgelsende.tech/*
 *://*.hmnbhcdbsd.art/*
 *://*.hmnbnlaraglsnde.com/*
+*://*.hmnbrdafrstkpn.shop/*
 *://*.hmnbrldmsnzsageln.com/*
 *://*.hmnbsdbsd.art/*
 *://*.hmnbsvr.site/*
@@ -174432,6 +174480,7 @@
 *://*.hostnotify.io/*
 *://*.hostonlinelike-com.cf/*
 *://*.hostonlinelike-com.ga/*
+*://*.hostoosoosg.click/*
 *://*.hostoperationsystems.com/*
 *://*.hostpederx.shop/*
 *://*.hostport9.net/*
@@ -175054,6 +175103,7 @@
 *://*.hsbc1secureonline.com/*
 *://*.hsbc2323.com/*
 *://*.hsbcbank-ca.com/*
+*://*.hsbcbank-finance.com/*
 *://*.hsbcbank-hsaccess.com/*
 *://*.hsbcbank.biz/*
 *://*.hsbcbank.cf/*
@@ -185707,6 +185757,7 @@
 *://*.instagramcopyright.ga/*
 *://*.instagramcopyrightes.cf/*
 *://*.instagramcopyrightform018.ml/*
+*://*.instagramcopyrightverificationteammailteam.ph/*
 *://*.instagramdogrulama.com/*
 *://*.instagramforcenters.com/*
 *://*.instagramgiftshoping.com/*
@@ -190418,6 +190469,7 @@
 *://*.islemlerinmobil-12.sbs/*
 *://*.islemlerinmobil-13.sbs/*
 *://*.islemlerinmobil-14.sbs/*
+*://*.islemlerinmobil-15.sbs/*
 *://*.islemleriyonet.de/*
 *://*.islemlerkm.org/*
 *://*.islemlerkolaydirnface.net/*
@@ -191567,6 +191619,7 @@
 *://*.istanbulkartnn.online/*
 *://*.istanbulkartnoktasii.net/*
 *://*.istanbulkartodeme.tech/*
+*://*.istanbulkartonline.online/*
 *://*.istanbulkartonline.xyz/*
 *://*.istanbulkartpromosyon.net/*
 *://*.istanbulkartr.xyz/*
@@ -212993,6 +213046,7 @@
 *://*.kredifirsatlari-com-tr.tk/*
 *://*.kredifirsatlari.xyz/*
 *://*.kredifirsatlarimisden.com/*
+*://*.kredifirsatstatusu.com/*
 *://*.kredigaranti-garanti.com/*
 *://*.kredigarantibbva.com.tr/*
 *://*.kredigo.org/*
@@ -213420,6 +213474,7 @@
 *://*.kredtle-mypay.com.tr/*
 *://*.kreerdisonuc.org/*
 *://*.kreiedek23152375.online/*
+*://*.krekdsfsdcvncmndjf.shop/*
 *://*.krekspeks.site/*
 *://*.krelastonui.icu/*
 *://*.krelavonuti.digital/*
@@ -214024,6 +214079,7 @@
 *://*.kuiveytturk.com/*
 *://*.kujefa.info/*
 *://*.kujyzohavbulod.biz/*
+*://*.kukluhguhuderesede.lol/*
 *://*.kukodemem.com/*
 *://*.kukokesak.xyz/*
 *://*.kukpofdgbro.pw/*
@@ -219690,6 +219746,7 @@
 *://*.lordinfrastructure.top/*
 *://*.lordismail.online/*
 *://*.lordofscan.pro/*
+*://*.lordoftherings.cfd/*
 *://*.lordwin.xyz/*
 *://*.loregion.com/*
 *://*.lorenfilokiralama.com/*
@@ -219843,6 +219900,7 @@
 *://*.loveservice-wrap.com/*
 *://*.lovesizinleinx.com/*
 *://*.loveslife.biz/*
+*://*.lovesorgupanelim.click/*
 *://*.lovestoblog.com/*
 *://*.lovethecay.com/*
 *://*.lovetheshake.com/*
@@ -224342,6 +224400,7 @@
 *://*.marksandspencer-airnewzealand-icc.com.ph/*
 *://*.marksandspencer-login.ph/*
 *://*.marksandspencer1.online/*
+*://*.marksandspencerbanco.com.ph/*
 *://*.marksandspencerhrvatska.com.ph/*
 *://*.marksandspencermall.top/*
 *://*.marksandspencershop.top/*
@@ -225929,6 +225988,7 @@
 *://*.mcgonal.cfd/*
 *://*.mcgov.md/*
 *://*.mcgpswqf.com/*
+*://*.mcgrawney.com/*
 *://*.mchahahdh-absudja-ansnzab.cfd/*
 *://*.mchahahdh-absudja-ansnzab.icu/*
 *://*.mci-consultant.id/*
@@ -227632,6 +227692,7 @@
 *://*.meta-spy.help/*
 *://*.meta-spy365.com/*
 *://*.meta-sso.com/*
+*://*.meta-support.online/*
 *://*.meta-talep-olustur.xyz/*
 *://*.meta-telif-destek.ml/*
 *://*.meta-telif-hakki.ml/*
@@ -228416,6 +228477,7 @@
 *://*.mhrsmsxlm.com/*
 *://*.mhrsonlinerandevu.net/*
 *://*.mhrsonlinerandevu.org/*
+*://*.mhrsonlinerandevutr.com/*
 *://*.mhrsonlnesd.sbs/*
 *://*.mhrsrandavu.net/*
 *://*.mhrsrandevu.art/*
@@ -238481,6 +238543,7 @@
 *://*.naourl.com/*
 *://*.naovemdegarfonasopa.app/*
 *://*.napasmash.store/*
+*://*.napaw40848.world/*
 *://*.napcondolence.top/*
 *://*.napicaksin.app/*
 *://*.napimcokdegerlivaktim.com/*
@@ -245585,6 +245648,7 @@
 *://*.oastify.com/*
 *://*.oasymbasvurun.net/*
 *://*.oat365.com/*
+*://*.oatahwed.shop/*
 *://*.oatcakxiob.com/*
 *://*.oatmealpleasure.best/*
 *://*.oatrnity.top/*
@@ -251326,6 +251390,7 @@
 *://*.onlineislembireysel.com/*
 *://*.onlineislembirimi.com/*
 *://*.onlineislembudget.com/*
+*://*.onlineislemden.com/*
 *://*.onlineislemdeniz.ml/*
 *://*.onlineislememlakkonut.net/*
 *://*.onlineislemhgs.sbs/*
@@ -252435,6 +252500,7 @@
 *://*.onlineyaronline.online/*
 *://*.onlineyatirim.xyz/*
 *://*.onlineyatirimofisi.com/*
+*://*.onlineyedeparcacin.com/*
 *://*.onlineyeniaktarma-ekranin.site/*
 *://*.onlineyenigirisziraat.com/*
 *://*.onlineyenitrsistem.com/*
@@ -256955,6 +257021,7 @@
 *://*.palmiyesultan.net/*
 *://*.palmiyesultan.site/*
 *://*.palmiyesultan.uk/*
+*://*.palmiyesultanb.uk/*
 *://*.palmiyesultanbungalov.com/*
 *://*.palmiyesultanbungalov.org/*
 *://*.palmiyesultanbungalow.org/*
@@ -274612,6 +274679,7 @@
 *://*.qmlhs.com/*
 *://*.qmlpqhwjjcqh.space/*
 *://*.qmmmshpqan.info/*
+*://*.qmnasdn.click/*
 *://*.qmncjgkuh.com/*
 *://*.qmobil.com.tr/*
 *://*.qmobil.info/*
@@ -276788,6 +276856,7 @@
 *://*.qwodxz.top/*
 *://*.qwoois.ml/*
 *://*.qwpmmspees.info/*
+*://*.qwqeqeqweq.shop/*
 *://*.qwqww.click/*
 *://*.qwrlawivybtafy.me/*
 *://*.qwrpeehnqa.info/*
@@ -278704,6 +278773,7 @@
 *://*.rdrgo4.cyou/*
 *://*.rdrhgss.com/*
 *://*.rdrplay.ru/*
+*://*.rdsjcnc1.click/*
 *://*.rdsjwu.com/*
 *://*.rdsnets.com/*
 *://*.rdtmpawmbpmsfeq.cn/*
@@ -283450,6 +283520,7 @@
 *://*.ruhsuzpanel2.website/*
 *://*.ruhsuzpanel3.website/*
 *://*.ruhsuzpanel3.world/*
+*://*.ruhsuzpanel31.click/*
 *://*.ruhsuzpanel3120.click/*
 *://*.ruhsuzpanel3169.world/*
 *://*.ruhsuzpanel3250.website/*
@@ -285283,6 +285354,7 @@
 *://*.saglik-pan-de-mim-2faz-odeme.tk/*
 *://*.saglik-pandemi-turkiyedestek.com/*
 *://*.saglik-pandmi-destek.com/*
+*://*.saglik-rnd.cfd/*
 *://*.saglik-sosyal-calisma-vatandas-destek-hibe.ga/*
 *://*.saglik-sosyal-danismanlik-pan-demi-des-tek-net.tk/*
 *://*.saglik-sosyal-danismanlik-pan-demi-destek.tk/*
@@ -298173,6 +298245,7 @@
 *://*.siparis-extra-online-mobil.click/*
 *://*.siparis-geldi.com/*
 *://*.siparis-get-onay.com/*
+*://*.siparis-get-servis.online/*
 *://*.siparis-guvende.com/*
 *://*.siparis-guvende.online/*
 *://*.siparis-guvenli-ver.click/*
@@ -298214,6 +298287,7 @@
 *://*.siparis-olustur-223037.com/*
 *://*.siparis-olustur-223038.com/*
 *://*.siparis-olustur-223039.com/*
+*://*.siparis-olustur.com/*
 *://*.siparis-olustur.online/*
 *://*.siparis-onay-7268.com/*
 *://*.siparis-onay-7269.com/*
@@ -298421,6 +298495,7 @@
 *://*.siparisleri12agustosta.net/*
 *://*.siparislerim-banaozel.com/*
 *://*.siparislerim-cfsa.com/*
+*://*.siparislerim-onayli-127447.com/*
 *://*.siparislerim-onayli-127451.com/*
 *://*.siparislerim-onayli-127452.com/*
 *://*.siparislerim.net/*
@@ -300382,6 +300457,7 @@
 *://*.slkfxdsmnnvialr.net/*
 *://*.slkmalkretler.shop/*
 *://*.slkmalrkelr.shop/*
+*://*.slkmalrktin.lol/*
 *://*.slksdt.xyz/*
 *://*.sllbyp.top/*
 *://*.sllcorrelate.top/*
@@ -300965,6 +301041,7 @@
 *://*.snbenmcokckardfas80.click/*
 *://*.snbnlarbrdanalmdnkrl.shop/*
 *://*.snbnsevymsnzaza.xyz/*
+*://*.snbrdanalcnbselyer.lat/*
 *://*.snbrdanmrhsrvdal.lol/*
 *://*.sncbakalke.click/*
 *://*.sncbibmcell.com/*
@@ -303886,6 +303963,7 @@
 *://*.sorgu.wtf/*
 *://*.sorgu.xyz/*
 *://*.sorgu1.site/*
+*://*.sorgu3131.click/*
 *://*.sorgu3169.site/*
 *://*.sorgu81.plus/*
 *://*.sorguadalet.org/*
@@ -303923,6 +304001,7 @@
 *://*.sorgucunuz.cfd/*
 *://*.sorgudava.net/*
 *://*.sorgudenetim.org/*
+*://*.sorgudosya.net/*
 *://*.sorgueceza.com/*
 *://*.sorguedevlet.com/*
 *://*.sorguedevlet.org/*
@@ -304199,7 +304278,9 @@
 *://*.sorgupanelim.com/*
 *://*.sorgupanelim.com.tr/*
 *://*.sorgupanelim.xyz/*
+*://*.sorgupanelimm.click/*
 *://*.sorgupanelimvarbe.click/*
+*://*.sorgupanelinegirmeyenpic.click/*
 *://*.sorgupanelleri.com.tr/*
 *://*.sorgupanelllll.tk/*
 *://*.sorgupanelmeb.gq/*
@@ -307194,6 +307275,7 @@
 *://*.stacklogicz.com/*
 *://*.stackmother.top/*
 *://*.stackorbit.xyz/*
+*://*.stackpathcloud.com/*
 *://*.stackpatriotic.top/*
 *://*.stackreconciliatory.top/*
 *://*.stackseduce.top/*
@@ -312195,6 +312277,7 @@
 *://*.system-online-check.online/*
 *://*.system-services.site/*
 *://*.system-spy.ru/*
+*://*.system-strategy.org/*
 *://*.system-tra-docs.net/*
 *://*.system-tram-activate.net/*
 *://*.system-update.xyz/*
@@ -322030,6 +322113,7 @@
 *://*.tokiev.org/*
 *://*.tokiev.xyz/*
 *://*.tokiev724.com/*
+*://*.tokievbasvursu.xyz/*
 *://*.tokievbasvuru.com/*
 *://*.tokievbasvuru.xyz/*
 *://*.tokievbasvurulari.xyz/*
@@ -329488,6 +329572,7 @@
 *://*.truist-one-view.cc/*
 *://*.truistical.com/*
 *://*.truktuvrndvu.com/*
+*://*.trulitesupport.com/*
 *://*.trulkigh.xyz/*
 *://*.trulyfraudulent.top/*
 *://*.trumc.xyz/*
@@ -333672,6 +333757,7 @@
 *://*.tututut-masallah-tum-islerim-valla-viral.cfd/*
 *://*.tutvturk.digital/*
 *://*.tutya.name.tr/*
+*://*.tutyrncjcn.shop/*
 *://*.tuurkiyeonline.online/*
 *://*.tuuvturk.live/*
 *://*.tuv-arac-muane.net/*
@@ -337634,6 +337720,7 @@
 *://*.usdailypost.net/*
 *://*.usdenacswatc1.net/*
 *://*.usdepartmentofrevenue.com/*
+*://*.usdgsdgsd.shop/*
 *://*.usdnfdsfm.com/*
 *://*.usdousigninc.com/*
 *://*.usdp.news/*
@@ -342643,6 +342730,7 @@
 *://*.vbumbriawdxejjr.su/*
 *://*.vbuzqle.com/*
 *://*.vbvbngfgger.com/*
+*://*.vbvgfvbb5.click/*
 *://*.vbvslecdvt-dvt.com/*
 *://*.vbwdwxa.click/*
 *://*.vbxb.cn/*
@@ -344366,6 +344454,7 @@
 *://*.verqiodemeaninda.online/*
 *://*.verrgsiodeyse.net/*
 *://*.verrtyonastudio.pro/*
+*://*.verryadsfree.lat/*
 *://*.versa0ce.app/*
 *://*.versabank-transfer.com/*
 *://*.versacealacamabi.net/*
@@ -344523,6 +344612,7 @@
 *://*.vestaksi.com/*
 *://*.vestathemes.com/*
 *://*.vestcarfilo.com/*
+*://*.vestel-ai.net/*
 *://*.vestel-bayi-siparis.online/*
 *://*.vestelbayileri.com/*
 *://*.vesteldefnce.io/*
@@ -345563,6 +345653,7 @@
 *://*.vitlogngrsakkrd.online/*
 *://*.vitrainxorer.com/*
 *://*.vitraorg.com/*
+*://*.vitrincicek.com/*
 *://*.vitrinfiles.ir/*
 *://*.vitringuvence.com.tr/*
 *://*.vitrinim-ozel.com/*
@@ -352624,6 +352715,7 @@
 *://*.wpinw.com/*
 *://*.wpitcher.com/*
 *://*.wpjs1.com/*
+*://*.wpllink.cloud/*
 *://*.wplsummit.com/*
 *://*.wplusoriginal.com/*
 *://*.wplvsp.top/*
@@ -362057,6 +362149,7 @@
 *://*.xn--mzmrkart-skb.com/*
 *://*.xn--mzmrkzrt-skb.net/*
 *://*.xn--nabznagrehaberidmi-j3b09i61a.net/*
+*://*.xn--nadrgold-e2a.com/*
 *://*.xn--naktbahis652-34b.com/*
 *://*.xn--nanlmazfrsat-04bdf.com/*
 *://*.xn--narrowlure-1s6e.fun/*
@@ -372737,6 +372830,7 @@
 *://*.ytm-trdinvest.com/*
 *://*.ytmfynt.com/*
 *://*.ytntf5hvtn2vgcxxq.com/*
+*://*.ytnvhfdk.com/*
 *://*.ytr0biz.pw/*
 *://*.ytr1biz.pw/*
 *://*.ytr2biz.pw/*
@@ -376229,6 +376323,7 @@
 *://*.ziraatkatilim-basvurular.com/*
 *://*.ziraatkatilim-internet.com/*
 *://*.ziraatkatilim-tr.com/*
+*://*.ziraatkatilim.ai/*
 *://*.ziraatkatilim.biz/*
 *://*.ziraatkatilim.ml/*
 *://*.ziraatkatilim.site/*
@@ -376921,6 +377016,7 @@
 *://*.zkeyxg.com/*
 *://*.zkgo.cc/*
 *://*.zkhgs.com/*
+*://*.zki.lol/*
 *://*.zkilarubuo.info/*
 *://*.zklxsklcslrzds.net/*
 *://*.zkooperatif.cfd/*
@@ -377041,6 +377137,7 @@
 *://*.zmrgvlicebzlerle.net/*
 *://*.zmrimizlesinbizlerle.net/*
 *://*.zmrkaryklmen.net/*
+*://*.zmrkcalss.shop/*
 *://*.zmrkkxxykle.net/*
 *://*.zmrkrtdlmyklmrzxz.net/*
 *://*.zmrkrtyklememrkze.net/*
@@ -377064,6 +377161,7 @@
 *://*.zmxbsjsba-dnsba-ansndam.cyou/*
 *://*.zmxbsjsba-dnsba-ansndam.sbs/*
 *://*.zmxsssxxmm.net/*
+*://*.zmxzcnemds.shop/*
 *://*.zmykemexd.net/*
 *://*.zmyo.club/*
 *://*.zmzmmzmzquez.net/*
@@ -377751,6 +377849,7 @@
 *://*.zxmzxmcxmxxx.net/*
 *://*.zxncbnmabcn.net/*
 *://*.zxntbhqwe.com/*
+*://*.zxnvhvxz-vdskdsgpeq-asxzvas.sbs/*
 *://*.zxonazxc.com/*
 *://*.zxoolifeso.info/*
 *://*.zxopfds.com/*
